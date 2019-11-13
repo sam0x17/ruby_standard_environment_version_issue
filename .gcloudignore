@@ -1,0 +1,5 @@
+!/.ruby-version
+/.git
+/log/*
+/tmp/*
+!.sprockets-manifest-*.json
